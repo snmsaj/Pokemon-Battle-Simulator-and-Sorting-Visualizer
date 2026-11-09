@@ -1,0 +1,87 @@
+name,display_name,type,category,power,accuracy,pp,priority
+absorb,Absorb,grass,special,20,100,25,0
+acid,Acid,poison,special,40,100,30,0
+aurora-beam,Aurora Beam,ice,special,65,100,20,0
+barrage,Barrage,normal,physical,15,85,20,0
+bind,Bind,normal,physical,15,85,20,0
+bite,Bite,dark,physical,60,100,25,0
+blizzard,Blizzard,ice,special,110,70,5,0
+body-slam,Body Slam,normal,physical,85,100,15,0
+bone-club,Bone Club,ground,physical,65,85,20,0
+bonemerang,Bonemerang,ground,physical,50,90,10,0
+bubble,Bubble,water,special,40,100,30,0
+clamp,Clamp,water,physical,35,85,15,0
+comet-punch,Comet Punch,normal,physical,18,85,15,0
+confusion,Confusion,psychic,special,50,100,25,0
+constrict,Constrict,normal,physical,10,100,35,0
+crabhammer,Crabhammer,water,physical,100,90,10,0
+dig,Dig,ground,physical,80,100,10,0
+dizzy-punch,Dizzy Punch,normal,physical,70,100,10,0
+double-edge,Double-Edge,normal,physical,120,100,15,0
+double-kick,Double Kick,fighting,physical,30,100,30,0
+double-slap,Double Slap,normal,physical,15,85,10,0
+dream-eater,Dream Eater,psychic,special,100,100,15,0
+drill-peck,Drill Peck,flying,physical,80,100,20,0
+earthquake,Earthquake,ground,physical,100,100,10,0
+ember,Ember,fire,special,40,100,25,0
+explosion,Explosion,normal,physical,250,100,5,0
+fire-punch,Fire Punch,fire,physical,75,100,15,0
+fire-spin,Fire Spin,fire,special,35,85,15,0
+flamethrower,Flamethrower,fire,special,90,100,15,0
+fury-attack,Fury Attack,normal,physical,15,85,20,0
+fury-swipes,Fury Swipes,normal,physical,18,80,15,0
+gust,Gust,flying,special,40,100,35,0
+headbutt,Headbutt,normal,physical,70,100,15,0
+high-jump-kick,High Jump Kick,fighting,physical,130,90,10,0
+horn-attack,Horn Attack,normal,physical,65,100,25,0
+hydro-pump,Hydro Pump,water,special,110,80,5,0
+hyper-beam,Hyper Beam,normal,special,150,90,5,0
+hyper-fang,Hyper Fang,normal,physical,80,90,15,0
+ice-beam,Ice Beam,ice,special,90,100,10,0
+ice-punch,Ice Punch,ice,physical,75,100,15,0
+jump-kick,Jump Kick,fighting,physical,100,95,10,0
+karate-chop,Karate Chop,fighting,physical,50,100,25,0
+leech-life,Leech Life,bug,physical,80,100,10,0
+lick,Lick,ghost,physical,30,100,30,0
+mega-kick,Mega Kick,normal,physical,120,75,5,0
+mega-punch,Mega Punch,normal,physical,80,85,20,0
+pay-day,Pay Day,normal,physical,40,100,20,0
+peck,Peck,flying,physical,35,100,35,0
+petal-dance,Petal Dance,grass,special,120,100,10,0
+pin-missile,Pin Missile,bug,physical,25,95,20,0
+poison-sting,Poison Sting,poison,physical,15,100,35,0
+pound,Pound,normal,physical,40,100,35,0
+psybeam,Psybeam,psychic,special,65,100,20,0
+psychic,Psychic,psychic,special,90,100,10,0
+quick-attack,Quick Attack,normal,physical,40,100,30,1
+rage,Rage,normal,physical,20,100,20,0
+razor-leaf,Razor Leaf,grass,physical,55,95,25,0
+rock-throw,Rock Throw,rock,physical,50,90,15,0
+rolling-kick,Rolling Kick,fighting,physical,60,85,15,0
+scratch,Scratch,normal,physical,40,100,35,0
+self-destruct,Self-Destruct,normal,physical,200,100,5,0
+skull-bash,Skull Bash,normal,physical,130,100,10,0
+sky-attack,Sky Attack,flying,physical,140,90,5,0
+slam,Slam,normal,physical,80,75,20,0
+slash,Slash,normal,physical,70,100,20,0
+sludge,Sludge,poison,special,65,100,20,0
+smog,Smog,poison,special,30,70,20,0
+solar-beam,Solar Beam,grass,special,120,100,10,0
+spike-cannon,Spike Cannon,normal,physical,20,100,15,0
+stomp,Stomp,normal,physical,65,100,20,0
+submission,Submission,fighting,physical,80,80,20,0
+swift,Swift,normal,special,60,100,20,0
+tackle,Tackle,normal,physical,40,100,35,0
+take-down,Take Down,normal,physical,90,85,20,0
+thrash,Thrash,normal,physical,120,100,10,0
+thunder,Thunder,electric,special,110,70,10,0
+thunder-punch,Thunder Punch,electric,physical,75,100,15,0
+thunder-shock,Thunder Shock,electric,special,40,100,30,0
+tri-attack,Tri Attack,normal,special,80,100,10,0
+twineedle,Twineedle,bug,physical,25,100,20,0
+vice-grip,Vise Grip,normal,physical,55,100,30,0
+vine-whip,Vine Whip,grass,physical,45,100,25,0
+water-gun,Water Gun,water,special,40,100,25,0
+waterfall,Waterfall,water,physical,80,100,15,0
+wing-attack,Wing Attack,flying,physical,60,100,35,0
+wrap,Wrap,normal,physical,15,90,20,0
