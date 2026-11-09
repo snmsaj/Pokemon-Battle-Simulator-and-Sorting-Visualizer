@@ -1,0 +1,500 @@
+id,display_name,type1,type2,move_display_name,move_type,move_category,move_power,move_accuracy,same_type,super_effective_vs
+1,Bulbasaur,grass,poison,Solar Beam,grass,special,120,100,True,3
+1,Bulbasaur,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+1,Bulbasaur,grass,poison,Vine Whip,grass,physical,45,100,True,3
+1,Bulbasaur,grass,poison,Tackle,normal,physical,40,100,False,0
+2,Ivysaur,grass,poison,Solar Beam,grass,special,120,100,True,3
+2,Ivysaur,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+2,Ivysaur,grass,poison,Vine Whip,grass,physical,45,100,True,3
+2,Ivysaur,grass,poison,Tackle,normal,physical,40,100,False,0
+3,Venusaur,grass,poison,Solar Beam,grass,special,120,100,True,3
+3,Venusaur,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+3,Venusaur,grass,poison,Vine Whip,grass,physical,45,100,True,3
+3,Venusaur,grass,poison,Tackle,normal,physical,40,100,False,0
+4,Charmander,fire,,Fire Spin,fire,special,35,85,True,4
+4,Charmander,fire,,Flamethrower,fire,special,90,100,True,4
+4,Charmander,fire,,Slash,normal,physical,70,100,False,0
+4,Charmander,fire,,Rage,normal,physical,20,100,False,0
+5,Charmeleon,fire,,Fire Spin,fire,special,35,85,True,4
+5,Charmeleon,fire,,Flamethrower,fire,special,90,100,True,4
+5,Charmeleon,fire,,Slash,normal,physical,70,100,False,0
+5,Charmeleon,fire,,Rage,normal,physical,20,100,False,0
+6,Charizard,fire,flying,Fire Spin,fire,special,35,85,True,4
+6,Charizard,fire,flying,Flamethrower,fire,special,90,100,True,4
+6,Charizard,fire,flying,Slash,normal,physical,70,100,False,0
+6,Charizard,fire,flying,Rage,normal,physical,20,100,False,0
+7,Squirtle,water,,Hydro Pump,water,special,110,80,True,3
+7,Squirtle,water,,Skull Bash,normal,physical,130,100,False,0
+7,Squirtle,water,,Bite,dark,physical,60,100,False,2
+7,Squirtle,water,,Water Gun,water,special,40,100,True,3
+8,Wartortle,water,,Hydro Pump,water,special,110,80,True,3
+8,Wartortle,water,,Skull Bash,normal,physical,130,100,False,0
+8,Wartortle,water,,Bite,dark,physical,60,100,False,2
+8,Wartortle,water,,Water Gun,water,special,40,100,True,3
+9,Blastoise,water,,Hydro Pump,water,special,110,80,True,3
+9,Blastoise,water,,Skull Bash,normal,physical,130,100,False,0
+9,Blastoise,water,,Bite,dark,physical,60,100,False,2
+9,Blastoise,water,,Water Gun,water,special,40,100,True,3
+10,Caterpie,bug,,Tackle,normal,physical,40,100,False,0
+12,Butterfree,bug,flying,Psybeam,psychic,special,65,100,False,2
+12,Butterfree,bug,flying,Confusion,psychic,special,50,100,False,2
+13,Weedle,bug,poison,Poison Sting,poison,physical,15,100,True,2
+15,Beedrill,bug,poison,Pin Missile,bug,physical,25,95,True,3
+15,Beedrill,bug,poison,Rage,normal,physical,20,100,False,0
+15,Beedrill,bug,poison,Twineedle,bug,physical,25,100,True,3
+15,Beedrill,bug,poison,Fury Attack,normal,physical,15,85,False,0
+16,Pidgey,normal,flying,Wing Attack,flying,physical,60,100,True,3
+16,Pidgey,normal,flying,Quick Attack,normal,physical,40,100,True,0
+16,Pidgey,normal,flying,Gust,flying,special,40,100,True,3
+17,Pidgeotto,normal,flying,Wing Attack,flying,physical,60,100,True,3
+17,Pidgeotto,normal,flying,Quick Attack,normal,physical,40,100,True,0
+17,Pidgeotto,normal,flying,Gust,flying,special,40,100,True,3
+18,Pidgeot,normal,flying,Wing Attack,flying,physical,60,100,True,3
+18,Pidgeot,normal,flying,Quick Attack,normal,physical,40,100,True,0
+18,Pidgeot,normal,flying,Gust,flying,special,40,100,True,3
+19,Rattata,normal,,Hyper Fang,normal,physical,80,90,True,0
+19,Rattata,normal,,Quick Attack,normal,physical,40,100,True,0
+19,Rattata,normal,,Tackle,normal,physical,40,100,True,0
+20,Raticate,normal,,Hyper Fang,normal,physical,80,90,True,0
+20,Raticate,normal,,Quick Attack,normal,physical,40,100,True,0
+20,Raticate,normal,,Tackle,normal,physical,40,100,True,0
+21,Spearow,normal,flying,Drill Peck,flying,physical,80,100,True,3
+21,Spearow,normal,flying,Fury Attack,normal,physical,15,85,True,0
+21,Spearow,normal,flying,Peck,flying,physical,35,100,True,3
+22,Fearow,normal,flying,Drill Peck,flying,physical,80,100,True,3
+22,Fearow,normal,flying,Fury Attack,normal,physical,15,85,True,0
+22,Fearow,normal,flying,Peck,flying,physical,35,100,True,3
+23,Ekans,poison,,Acid,poison,special,40,100,True,2
+23,Ekans,poison,,Bite,dark,physical,60,100,False,2
+23,Ekans,poison,,Poison Sting,poison,physical,15,100,True,2
+23,Ekans,poison,,Wrap,normal,physical,15,90,False,0
+24,Arbok,poison,,Acid,poison,special,40,100,True,2
+24,Arbok,poison,,Bite,dark,physical,60,100,False,2
+24,Arbok,poison,,Poison Sting,poison,physical,15,100,True,2
+24,Arbok,poison,,Wrap,normal,physical,15,90,False,0
+25,Pikachu,electric,,Thunder,electric,special,110,70,True,2
+25,Pikachu,electric,,Swift,normal,special,60,100,False,0
+25,Pikachu,electric,,Quick Attack,normal,physical,40,100,False,0
+25,Pikachu,electric,,Thunder Shock,electric,special,40,100,True,2
+26,Raichu,electric,,Thunder Shock,electric,special,40,100,True,2
+27,Sandshrew,ground,,Fury Swipes,normal,physical,18,80,False,0
+27,Sandshrew,ground,,Swift,normal,special,60,100,False,0
+27,Sandshrew,ground,,Poison Sting,poison,physical,15,100,False,2
+27,Sandshrew,ground,,Slash,normal,physical,70,100,False,0
+28,Sandslash,ground,,Fury Swipes,normal,physical,18,80,False,0
+28,Sandslash,ground,,Swift,normal,special,60,100,False,0
+28,Sandslash,ground,,Poison Sting,poison,physical,15,100,False,2
+28,Sandslash,ground,,Slash,normal,physical,70,100,False,0
+29,Nidoran (F),poison,,Double Kick,fighting,physical,30,100,False,5
+29,Nidoran (F),poison,,Fury Swipes,normal,physical,18,80,False,0
+29,Nidoran (F),poison,,Bite,dark,physical,60,100,False,2
+29,Nidoran (F),poison,,Poison Sting,poison,physical,15,100,True,2
+30,Nidorina,poison,,Double Kick,fighting,physical,30,100,False,5
+30,Nidorina,poison,,Fury Swipes,normal,physical,18,80,False,0
+30,Nidorina,poison,,Bite,dark,physical,60,100,False,2
+30,Nidorina,poison,,Poison Sting,poison,physical,15,100,True,2
+31,Nidoqueen,poison,ground,Body Slam,normal,physical,85,100,False,0
+31,Nidoqueen,poison,ground,Poison Sting,poison,physical,15,100,True,2
+31,Nidoqueen,poison,ground,Scratch,normal,physical,40,100,False,0
+31,Nidoqueen,poison,ground,Tackle,normal,physical,40,100,False,0
+32,Nidoran (M),poison,,Double Kick,fighting,physical,30,100,False,5
+32,Nidoran (M),poison,,Fury Attack,normal,physical,15,85,False,0
+32,Nidoran (M),poison,,Poison Sting,poison,physical,15,100,True,2
+32,Nidoran (M),poison,,Horn Attack,normal,physical,65,100,False,0
+33,Nidorino,poison,,Double Kick,fighting,physical,30,100,False,5
+33,Nidorino,poison,,Fury Attack,normal,physical,15,85,False,0
+33,Nidorino,poison,,Poison Sting,poison,physical,15,100,True,2
+33,Nidorino,poison,,Horn Attack,normal,physical,65,100,False,0
+34,Nidoking,poison,ground,Thrash,normal,physical,120,100,False,0
+34,Nidoking,poison,ground,Poison Sting,poison,physical,15,100,True,2
+34,Nidoking,poison,ground,Horn Attack,normal,physical,65,100,False,0
+34,Nidoking,poison,ground,Tackle,normal,physical,40,100,False,0
+35,Clefairy,fairy,,Double Slap,normal,physical,15,85,False,0
+35,Clefairy,fairy,,Pound,normal,physical,40,100,False,0
+36,Clefable,fairy,,Double Slap,normal,physical,15,85,False,0
+37,Vulpix,fire,,Fire Spin,fire,special,35,85,True,4
+37,Vulpix,fire,,Flamethrower,fire,special,90,100,True,4
+37,Vulpix,fire,,Quick Attack,normal,physical,40,100,False,0
+37,Vulpix,fire,,Ember,fire,special,40,100,True,4
+38,Ninetales,fire,,Quick Attack,normal,physical,40,100,False,0
+38,Ninetales,fire,,Ember,fire,special,40,100,True,4
+39,Jigglypuff,normal,fairy,Double-Edge,normal,physical,120,100,True,0
+39,Jigglypuff,normal,fairy,Body Slam,normal,physical,85,100,True,0
+39,Jigglypuff,normal,fairy,Double Slap,normal,physical,15,85,True,0
+39,Jigglypuff,normal,fairy,Pound,normal,physical,40,100,True,0
+40,Wigglytuff,normal,fairy,Double Slap,normal,physical,15,85,True,0
+41,Zubat,poison,flying,Wing Attack,flying,physical,60,100,True,3
+41,Zubat,poison,flying,Bite,dark,physical,60,100,False,2
+41,Zubat,poison,flying,Leech Life,bug,physical,80,100,False,3
+42,Golbat,poison,flying,Wing Attack,flying,physical,60,100,True,3
+42,Golbat,poison,flying,Bite,dark,physical,60,100,False,2
+42,Golbat,poison,flying,Leech Life,bug,physical,80,100,False,3
+43,Oddish,grass,poison,Solar Beam,grass,special,120,100,True,3
+43,Oddish,grass,poison,Petal Dance,grass,special,120,100,True,3
+43,Oddish,grass,poison,Acid,poison,special,40,100,True,2
+43,Oddish,grass,poison,Absorb,grass,special,20,100,True,3
+44,Gloom,grass,poison,Solar Beam,grass,special,120,100,True,3
+44,Gloom,grass,poison,Petal Dance,grass,special,120,100,True,3
+44,Gloom,grass,poison,Acid,poison,special,40,100,True,2
+44,Gloom,grass,poison,Absorb,grass,special,20,100,True,3
+45,Vileplume,grass,poison,Petal Dance,grass,special,120,100,True,3
+45,Vileplume,grass,poison,Acid,poison,special,40,100,True,2
+46,Paras,bug,grass,Slash,normal,physical,70,100,False,0
+46,Paras,bug,grass,Leech Life,bug,physical,80,100,True,3
+46,Paras,bug,grass,Scratch,normal,physical,40,100,False,0
+47,Parasect,bug,grass,Slash,normal,physical,70,100,False,0
+47,Parasect,bug,grass,Leech Life,bug,physical,80,100,True,3
+47,Parasect,bug,grass,Scratch,normal,physical,40,100,False,0
+48,Venonat,bug,poison,Psychic,psychic,special,90,100,False,2
+48,Venonat,bug,poison,Psybeam,psychic,special,65,100,False,2
+48,Venonat,bug,poison,Leech Life,bug,physical,80,100,True,3
+48,Venonat,bug,poison,Tackle,normal,physical,40,100,False,0
+49,Venomoth,bug,poison,Psychic,psychic,special,90,100,False,2
+49,Venomoth,bug,poison,Psybeam,psychic,special,65,100,False,2
+49,Venomoth,bug,poison,Leech Life,bug,physical,80,100,True,3
+49,Venomoth,bug,poison,Tackle,normal,physical,40,100,False,0
+50,Diglett,ground,,Earthquake,ground,physical,100,100,True,5
+50,Diglett,ground,,Slash,normal,physical,70,100,False,0
+50,Diglett,ground,,Dig,ground,physical,80,100,True,5
+50,Diglett,ground,,Scratch,normal,physical,40,100,False,0
+51,Dugtrio,ground,,Earthquake,ground,physical,100,100,True,5
+51,Dugtrio,ground,,Slash,normal,physical,70,100,False,0
+51,Dugtrio,ground,,Dig,ground,physical,80,100,True,5
+51,Dugtrio,ground,,Scratch,normal,physical,40,100,False,0
+52,Meowth,normal,,Slash,normal,physical,70,100,True,0
+52,Meowth,normal,,Fury Swipes,normal,physical,18,80,True,0
+52,Meowth,normal,,Pay Day,normal,physical,40,100,True,0
+52,Meowth,normal,,Bite,dark,physical,60,100,False,2
+53,Persian,normal,,Slash,normal,physical,70,100,True,0
+53,Persian,normal,,Fury Swipes,normal,physical,18,80,True,0
+53,Persian,normal,,Pay Day,normal,physical,40,100,True,0
+53,Persian,normal,,Bite,dark,physical,60,100,False,2
+54,Psyduck,water,,Hydro Pump,water,special,110,80,True,3
+54,Psyduck,water,,Fury Swipes,normal,physical,18,80,False,0
+54,Psyduck,water,,Confusion,psychic,special,50,100,False,2
+54,Psyduck,water,,Scratch,normal,physical,40,100,False,0
+55,Golduck,water,,Hydro Pump,water,special,110,80,True,3
+55,Golduck,water,,Fury Swipes,normal,physical,18,80,False,0
+55,Golduck,water,,Confusion,psychic,special,50,100,False,2
+55,Golduck,water,,Scratch,normal,physical,40,100,False,0
+56,Mankey,fighting,,Thrash,normal,physical,120,100,False,0
+56,Mankey,fighting,,Fury Swipes,normal,physical,18,80,False,0
+56,Mankey,fighting,,Karate Chop,fighting,physical,50,100,True,5
+56,Mankey,fighting,,Scratch,normal,physical,40,100,False,0
+57,Primeape,fighting,,Thrash,normal,physical,120,100,False,0
+57,Primeape,fighting,,Fury Swipes,normal,physical,18,80,False,0
+57,Primeape,fighting,,Karate Chop,fighting,physical,50,100,True,5
+57,Primeape,fighting,,Scratch,normal,physical,40,100,False,0
+58,Growlithe,fire,,Flamethrower,fire,special,90,100,True,4
+58,Growlithe,fire,,Take Down,normal,physical,90,85,False,0
+58,Growlithe,fire,,Ember,fire,special,40,100,True,4
+58,Growlithe,fire,,Bite,dark,physical,60,100,False,2
+59,Arcanine,fire,,Take Down,normal,physical,90,85,False,0
+59,Arcanine,fire,,Ember,fire,special,40,100,True,4
+60,Poliwag,water,,Hydro Pump,water,special,110,80,True,3
+60,Poliwag,water,,Body Slam,normal,physical,85,100,False,0
+60,Poliwag,water,,Double Slap,normal,physical,15,85,False,0
+60,Poliwag,water,,Water Gun,water,special,40,100,True,3
+61,Poliwhirl,water,,Hydro Pump,water,special,110,80,True,3
+61,Poliwhirl,water,,Body Slam,normal,physical,85,100,False,0
+61,Poliwhirl,water,,Double Slap,normal,physical,15,85,False,0
+61,Poliwhirl,water,,Water Gun,water,special,40,100,True,3
+62,Poliwrath,water,fighting,Water Gun,water,special,40,100,True,3
+62,Poliwrath,water,fighting,Double Slap,normal,physical,15,85,False,0
+62,Poliwrath,water,fighting,Body Slam,normal,physical,85,100,False,0
+64,Kadabra,psychic,,Psychic,psychic,special,90,100,True,2
+64,Kadabra,psychic,,Psybeam,psychic,special,65,100,True,2
+64,Kadabra,psychic,,Confusion,psychic,special,50,100,True,2
+65,Alakazam,psychic,,Psychic,psychic,special,90,100,True,2
+65,Alakazam,psychic,,Psybeam,psychic,special,65,100,True,2
+65,Alakazam,psychic,,Confusion,psychic,special,50,100,True,2
+66,Machop,fighting,,Submission,fighting,physical,80,80,True,5
+66,Machop,fighting,,Karate Chop,fighting,physical,50,100,True,5
+67,Machoke,fighting,,Submission,fighting,physical,80,80,True,5
+67,Machoke,fighting,,Karate Chop,fighting,physical,50,100,True,5
+68,Machamp,fighting,,Submission,fighting,physical,80,80,True,5
+68,Machamp,fighting,,Karate Chop,fighting,physical,50,100,True,5
+69,Bellsprout,grass,poison,Slam,normal,physical,80,75,False,0
+69,Bellsprout,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+69,Bellsprout,grass,poison,Acid,poison,special,40,100,True,2
+69,Bellsprout,grass,poison,Wrap,normal,physical,15,90,False,0
+70,Weepinbell,grass,poison,Slam,normal,physical,80,75,False,0
+70,Weepinbell,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+70,Weepinbell,grass,poison,Acid,poison,special,40,100,True,2
+70,Weepinbell,grass,poison,Wrap,normal,physical,15,90,False,0
+71,Victreebel,grass,poison,Wrap,normal,physical,15,90,False,0
+71,Victreebel,grass,poison,Razor Leaf,grass,physical,55,95,True,3
+71,Victreebel,grass,poison,Acid,poison,special,40,100,True,2
+72,Tentacool,water,poison,Hydro Pump,water,special,110,80,True,3
+72,Tentacool,water,poison,Constrict,normal,physical,10,100,False,0
+72,Tentacool,water,poison,Water Gun,water,special,40,100,True,3
+72,Tentacool,water,poison,Poison Sting,poison,physical,15,100,True,2
+73,Tentacruel,water,poison,Hydro Pump,water,special,110,80,True,3
+73,Tentacruel,water,poison,Constrict,normal,physical,10,100,False,0
+73,Tentacruel,water,poison,Water Gun,water,special,40,100,True,3
+73,Tentacruel,water,poison,Poison Sting,poison,physical,15,100,True,2
+74,Geodude,rock,ground,Explosion,normal,physical,250,100,False,0
+74,Geodude,rock,ground,Earthquake,ground,physical,100,100,True,5
+74,Geodude,rock,ground,Self-Destruct,normal,physical,200,100,False,0
+74,Geodude,rock,ground,Rock Throw,rock,physical,50,90,True,4
+75,Graveler,rock,ground,Explosion,normal,physical,250,100,False,0
+75,Graveler,rock,ground,Earthquake,ground,physical,100,100,True,5
+75,Graveler,rock,ground,Self-Destruct,normal,physical,200,100,False,0
+75,Graveler,rock,ground,Rock Throw,rock,physical,50,90,True,4
+76,Golem,rock,ground,Explosion,normal,physical,250,100,False,0
+76,Golem,rock,ground,Earthquake,ground,physical,100,100,True,5
+76,Golem,rock,ground,Self-Destruct,normal,physical,200,100,False,0
+76,Golem,rock,ground,Rock Throw,rock,physical,50,90,True,4
+77,Ponyta,fire,,Take Down,normal,physical,90,85,False,0
+77,Ponyta,fire,,Fire Spin,fire,special,35,85,True,4
+77,Ponyta,fire,,Stomp,normal,physical,65,100,False,0
+77,Ponyta,fire,,Ember,fire,special,40,100,True,4
+78,Rapidash,fire,,Take Down,normal,physical,90,85,False,0
+78,Rapidash,fire,,Fire Spin,fire,special,35,85,True,4
+78,Rapidash,fire,,Stomp,normal,physical,65,100,False,0
+78,Rapidash,fire,,Ember,fire,special,40,100,True,4
+79,Slowpoke,water,psychic,Psychic,psychic,special,90,100,True,2
+79,Slowpoke,water,psychic,Water Gun,water,special,40,100,True,3
+79,Slowpoke,water,psychic,Headbutt,normal,physical,70,100,False,0
+79,Slowpoke,water,psychic,Confusion,psychic,special,50,100,True,2
+80,Slowbro,water,psychic,Psychic,psychic,special,90,100,True,2
+80,Slowbro,water,psychic,Water Gun,water,special,40,100,True,3
+80,Slowbro,water,psychic,Headbutt,normal,physical,70,100,False,0
+80,Slowbro,water,psychic,Confusion,psychic,special,50,100,True,2
+81,Magnemite,electric,steel,Swift,normal,special,60,100,False,0
+81,Magnemite,electric,steel,Thunder Shock,electric,special,40,100,True,2
+81,Magnemite,electric,steel,Tackle,normal,physical,40,100,False,0
+82,Magneton,electric,steel,Swift,normal,special,60,100,False,0
+82,Magneton,electric,steel,Thunder Shock,electric,special,40,100,True,2
+82,Magneton,electric,steel,Tackle,normal,physical,40,100,False,0
+83,Farfetch'd,normal,flying,Slash,normal,physical,70,100,True,0
+83,Farfetch'd,normal,flying,Fury Attack,normal,physical,15,85,True,0
+83,Farfetch'd,normal,flying,Peck,flying,physical,35,100,True,3
+84,Doduo,normal,flying,Tri Attack,normal,special,80,100,True,0
+84,Doduo,normal,flying,Rage,normal,physical,20,100,True,0
+84,Doduo,normal,flying,Drill Peck,flying,physical,80,100,True,3
+84,Doduo,normal,flying,Fury Attack,normal,physical,15,85,True,0
+85,Dodrio,normal,flying,Tri Attack,normal,special,80,100,True,0
+85,Dodrio,normal,flying,Rage,normal,physical,20,100,True,0
+85,Dodrio,normal,flying,Drill Peck,flying,physical,80,100,True,3
+85,Dodrio,normal,flying,Fury Attack,normal,physical,15,85,True,0
+86,Seel,water,,Ice Beam,ice,special,90,100,False,4
+86,Seel,water,,Take Down,normal,physical,90,85,False,0
+86,Seel,water,,Aurora Beam,ice,special,65,100,False,4
+86,Seel,water,,Headbutt,normal,physical,70,100,False,0
+87,Dewgong,water,ice,Ice Beam,ice,special,90,100,True,4
+87,Dewgong,water,ice,Take Down,normal,physical,90,85,False,0
+87,Dewgong,water,ice,Aurora Beam,ice,special,65,100,True,4
+87,Dewgong,water,ice,Headbutt,normal,physical,70,100,False,0
+88,Grimer,poison,,Sludge,poison,special,65,100,True,2
+88,Grimer,poison,,Pound,normal,physical,40,100,False,0
+89,Muk,poison,,Sludge,poison,special,65,100,True,2
+89,Muk,poison,,Pound,normal,physical,40,100,False,0
+90,Shellder,water,,Ice Beam,ice,special,90,100,False,4
+90,Shellder,water,,Aurora Beam,ice,special,65,100,False,4
+90,Shellder,water,,Clamp,water,physical,35,85,True,3
+90,Shellder,water,,Tackle,normal,physical,40,100,False,0
+91,Cloyster,water,ice,Spike Cannon,normal,physical,20,100,False,0
+91,Cloyster,water,ice,Clamp,water,physical,35,85,True,3
+91,Cloyster,water,ice,Aurora Beam,ice,special,65,100,True,4
+92,Gastly,ghost,poison,Dream Eater,psychic,special,100,100,False,2
+92,Gastly,ghost,poison,Lick,ghost,physical,30,100,True,2
+93,Haunter,ghost,poison,Dream Eater,psychic,special,100,100,False,2
+93,Haunter,ghost,poison,Lick,ghost,physical,30,100,True,2
+94,Gengar,ghost,poison,Dream Eater,psychic,special,100,100,False,2
+94,Gengar,ghost,poison,Lick,ghost,physical,30,100,True,2
+95,Onix,rock,ground,Slam,normal,physical,80,75,False,0
+95,Onix,rock,ground,Rage,normal,physical,20,100,False,0
+95,Onix,rock,ground,Rock Throw,rock,physical,50,90,True,4
+95,Onix,rock,ground,Bind,normal,physical,15,85,False,0
+96,Drowzee,psychic,,Psychic,psychic,special,90,100,True,2
+96,Drowzee,psychic,,Headbutt,normal,physical,70,100,False,0
+96,Drowzee,psychic,,Confusion,psychic,special,50,100,True,2
+96,Drowzee,psychic,,Pound,normal,physical,40,100,False,0
+97,Hypno,psychic,,Psychic,psychic,special,90,100,True,2
+97,Hypno,psychic,,Headbutt,normal,physical,70,100,False,0
+97,Hypno,psychic,,Confusion,psychic,special,50,100,True,2
+97,Hypno,psychic,,Pound,normal,physical,40,100,False,0
+98,Krabby,water,,Crabhammer,water,physical,100,90,True,3
+98,Krabby,water,,Stomp,normal,physical,65,100,False,0
+98,Krabby,water,,Vise Grip,normal,physical,55,100,False,0
+98,Krabby,water,,Bubble,water,special,40,100,True,3
+99,Kingler,water,,Crabhammer,water,physical,100,90,True,3
+99,Kingler,water,,Stomp,normal,physical,65,100,False,0
+99,Kingler,water,,Vise Grip,normal,physical,55,100,False,0
+99,Kingler,water,,Bubble,water,special,40,100,True,3
+100,Voltorb,electric,,Explosion,normal,physical,250,100,False,0
+100,Voltorb,electric,,Swift,normal,special,60,100,False,0
+100,Voltorb,electric,,Self-Destruct,normal,physical,200,100,False,0
+100,Voltorb,electric,,Tackle,normal,physical,40,100,False,0
+101,Electrode,electric,,Explosion,normal,physical,250,100,False,0
+101,Electrode,electric,,Swift,normal,special,60,100,False,0
+101,Electrode,electric,,Self-Destruct,normal,physical,200,100,False,0
+101,Electrode,electric,,Tackle,normal,physical,40,100,False,0
+102,Exeggcute,grass,psychic,Solar Beam,grass,special,120,100,True,3
+102,Exeggcute,grass,psychic,Barrage,normal,physical,15,85,False,0
+103,Exeggutor,grass,psychic,Stomp,normal,physical,65,100,False,0
+103,Exeggutor,grass,psychic,Barrage,normal,physical,15,85,False,0
+104,Cubone,ground,,Rage,normal,physical,20,100,False,0
+104,Cubone,ground,,Bonemerang,ground,physical,50,90,True,5
+104,Cubone,ground,,Thrash,normal,physical,120,100,False,0
+104,Cubone,ground,,Bone Club,ground,physical,65,85,True,5
+105,Marowak,ground,,Rage,normal,physical,20,100,False,0
+105,Marowak,ground,,Bonemerang,ground,physical,50,90,True,5
+105,Marowak,ground,,Thrash,normal,physical,120,100,False,0
+105,Marowak,ground,,Bone Club,ground,physical,65,85,True,5
+106,Hitmonlee,fighting,,Mega Kick,normal,physical,120,75,False,0
+106,Hitmonlee,fighting,,High Jump Kick,fighting,physical,130,90,True,5
+106,Hitmonlee,fighting,,Jump Kick,fighting,physical,100,95,True,5
+106,Hitmonlee,fighting,,Rolling Kick,fighting,physical,60,85,True,5
+107,Hitmonchan,fighting,,Mega Punch,normal,physical,80,85,False,0
+107,Hitmonchan,fighting,,Thunder Punch,electric,physical,75,100,False,2
+107,Hitmonchan,fighting,,Ice Punch,ice,physical,75,100,False,4
+107,Hitmonchan,fighting,,Fire Punch,fire,physical,75,100,False,4
+108,Lickitung,normal,,Slam,normal,physical,80,75,True,0
+108,Lickitung,normal,,Stomp,normal,physical,65,100,True,0
+108,Lickitung,normal,,Wrap,normal,physical,15,90,True,0
+109,Koffing,poison,,Explosion,normal,physical,250,100,False,0
+109,Koffing,poison,,Self-Destruct,normal,physical,200,100,False,0
+109,Koffing,poison,,Sludge,poison,special,65,100,True,2
+109,Koffing,poison,,Tackle,normal,physical,40,100,False,0
+110,Weezing,poison,,Explosion,normal,physical,250,100,False,0
+110,Weezing,poison,,Self-Destruct,normal,physical,200,100,False,0
+110,Weezing,poison,,Sludge,poison,special,65,100,True,2
+110,Weezing,poison,,Tackle,normal,physical,40,100,False,0
+111,Rhyhorn,ground,rock,Take Down,normal,physical,90,85,False,0
+111,Rhyhorn,ground,rock,Fury Attack,normal,physical,15,85,False,0
+111,Rhyhorn,ground,rock,Stomp,normal,physical,65,100,False,0
+111,Rhyhorn,ground,rock,Horn Attack,normal,physical,65,100,False,0
+112,Rhydon,ground,rock,Take Down,normal,physical,90,85,False,0
+112,Rhydon,ground,rock,Fury Attack,normal,physical,15,85,False,0
+112,Rhydon,ground,rock,Stomp,normal,physical,65,100,False,0
+112,Rhydon,ground,rock,Horn Attack,normal,physical,65,100,False,0
+113,Chansey,normal,,Double-Edge,normal,physical,120,100,True,0
+113,Chansey,normal,,Pound,normal,physical,40,100,True,0
+113,Chansey,normal,,Double Slap,normal,physical,15,85,True,0
+114,Tangela,grass,,Slam,normal,physical,80,75,False,0
+114,Tangela,grass,,Absorb,grass,special,20,100,True,3
+114,Tangela,grass,,Constrict,normal,physical,10,100,False,0
+114,Tangela,grass,,Bind,normal,physical,15,85,False,0
+115,Kangaskhan,normal,,Dizzy Punch,normal,physical,70,100,True,0
+115,Kangaskhan,normal,,Mega Punch,normal,physical,80,85,True,0
+115,Kangaskhan,normal,,Bite,dark,physical,60,100,False,2
+115,Kangaskhan,normal,,Rage,normal,physical,20,100,True,0
+116,Horsea,water,,Hydro Pump,water,special,110,80,True,3
+116,Horsea,water,,Water Gun,water,special,40,100,True,3
+116,Horsea,water,,Bubble,water,special,40,100,True,3
+117,Seadra,water,,Hydro Pump,water,special,110,80,True,3
+117,Seadra,water,,Water Gun,water,special,40,100,True,3
+117,Seadra,water,,Bubble,water,special,40,100,True,3
+118,Goldeen,water,,Waterfall,water,physical,80,100,True,3
+118,Goldeen,water,,Fury Attack,normal,physical,15,85,False,0
+118,Goldeen,water,,Horn Attack,normal,physical,65,100,False,0
+118,Goldeen,water,,Peck,flying,physical,35,100,False,3
+119,Seaking,water,,Waterfall,water,physical,80,100,True,3
+119,Seaking,water,,Fury Attack,normal,physical,15,85,False,0
+119,Seaking,water,,Horn Attack,normal,physical,65,100,False,0
+119,Seaking,water,,Peck,flying,physical,35,100,False,3
+120,Staryu,water,,Hydro Pump,water,special,110,80,True,3
+120,Staryu,water,,Swift,normal,special,60,100,False,0
+120,Staryu,water,,Water Gun,water,special,40,100,True,3
+120,Staryu,water,,Tackle,normal,physical,40,100,False,0
+121,Starmie,water,psychic,Water Gun,water,special,40,100,True,3
+121,Starmie,water,psychic,Tackle,normal,physical,40,100,False,0
+122,Mr. Mime,psychic,fairy,Double Slap,normal,physical,15,85,False,0
+122,Mr. Mime,psychic,fairy,Confusion,psychic,special,50,100,True,2
+123,Scyther,bug,flying,Slash,normal,physical,70,100,False,0
+123,Scyther,bug,flying,Quick Attack,normal,physical,40,100,False,0
+124,Jynx,ice,psychic,Blizzard,ice,special,110,70,True,4
+124,Jynx,ice,psychic,Thrash,normal,physical,120,100,False,0
+124,Jynx,ice,psychic,Body Slam,normal,physical,85,100,False,0
+124,Jynx,ice,psychic,Ice Punch,ice,physical,75,100,True,4
+125,Electabuzz,electric,,Thunder,electric,special,110,70,True,2
+125,Electabuzz,electric,,Thunder Punch,electric,physical,75,100,True,2
+125,Electabuzz,electric,,Thunder Shock,electric,special,40,100,True,2
+125,Electabuzz,electric,,Quick Attack,normal,physical,40,100,False,0
+126,Magmar,fire,,Flamethrower,fire,special,90,100,True,4
+126,Magmar,fire,,Smog,poison,special,30,70,False,2
+126,Magmar,fire,,Fire Punch,fire,physical,75,100,True,4
+126,Magmar,fire,,Ember,fire,special,40,100,True,4
+127,Pinsir,bug,,Slash,normal,physical,70,100,False,0
+127,Pinsir,bug,,Vise Grip,normal,physical,55,100,False,0
+128,Tauros,normal,,Take Down,normal,physical,90,85,True,0
+128,Tauros,normal,,Rage,normal,physical,20,100,True,0
+128,Tauros,normal,,Stomp,normal,physical,65,100,True,0
+128,Tauros,normal,,Tackle,normal,physical,40,100,True,0
+129,Magikarp,water,,Tackle,normal,physical,40,100,False,0
+130,Gyarados,water,flying,Hyper Beam,normal,special,150,90,False,0
+130,Gyarados,water,flying,Hydro Pump,water,special,110,80,True,3
+130,Gyarados,water,flying,Bite,dark,physical,60,100,False,2
+131,Lapras,water,ice,Hydro Pump,water,special,110,80,True,3
+131,Lapras,water,ice,Ice Beam,ice,special,90,100,True,4
+131,Lapras,water,ice,Body Slam,normal,physical,85,100,False,0
+131,Lapras,water,ice,Water Gun,water,special,40,100,True,3
+133,Eevee,normal,,Take Down,normal,physical,90,85,True,0
+133,Eevee,normal,,Bite,dark,physical,60,100,False,2
+133,Eevee,normal,,Quick Attack,normal,physical,40,100,True,0
+133,Eevee,normal,,Tackle,normal,physical,40,100,True,0
+134,Vaporeon,water,,Hydro Pump,water,special,110,80,True,3
+134,Vaporeon,water,,Bite,dark,physical,60,100,False,2
+134,Vaporeon,water,,Water Gun,water,special,40,100,True,3
+134,Vaporeon,water,,Quick Attack,normal,physical,40,100,False,0
+135,Jolteon,electric,,Thunder,electric,special,110,70,True,2
+135,Jolteon,electric,,Pin Missile,bug,physical,25,95,False,3
+135,Jolteon,electric,,Double Kick,fighting,physical,30,100,False,5
+135,Jolteon,electric,,Thunder Shock,electric,special,40,100,True,2
+136,Flareon,fire,,Flamethrower,fire,special,90,100,True,4
+136,Flareon,fire,,Rage,normal,physical,20,100,False,0
+136,Flareon,fire,,Fire Spin,fire,special,35,85,True,4
+136,Flareon,fire,,Bite,dark,physical,60,100,False,2
+137,Porygon,normal,,Tri Attack,normal,special,80,100,True,0
+137,Porygon,normal,,Psybeam,psychic,special,65,100,False,2
+137,Porygon,normal,,Tackle,normal,physical,40,100,True,0
+138,Omanyte,rock,water,Hydro Pump,water,special,110,80,True,3
+138,Omanyte,rock,water,Spike Cannon,normal,physical,20,100,False,0
+138,Omanyte,rock,water,Horn Attack,normal,physical,65,100,False,0
+138,Omanyte,rock,water,Water Gun,water,special,40,100,True,3
+139,Omastar,rock,water,Hydro Pump,water,special,110,80,True,3
+139,Omastar,rock,water,Spike Cannon,normal,physical,20,100,False,0
+139,Omastar,rock,water,Horn Attack,normal,physical,65,100,False,0
+139,Omastar,rock,water,Water Gun,water,special,40,100,True,3
+140,Kabuto,rock,water,Hydro Pump,water,special,110,80,True,3
+140,Kabuto,rock,water,Slash,normal,physical,70,100,False,0
+140,Kabuto,rock,water,Absorb,grass,special,20,100,False,3
+140,Kabuto,rock,water,Scratch,normal,physical,40,100,False,0
+141,Kabutops,rock,water,Hydro Pump,water,special,110,80,True,3
+141,Kabutops,rock,water,Slash,normal,physical,70,100,False,0
+141,Kabutops,rock,water,Absorb,grass,special,20,100,False,3
+141,Kabutops,rock,water,Scratch,normal,physical,40,100,False,0
+142,Aerodactyl,rock,flying,Hyper Beam,normal,special,150,90,False,0
+142,Aerodactyl,rock,flying,Take Down,normal,physical,90,85,False,0
+142,Aerodactyl,rock,flying,Bite,dark,physical,60,100,False,2
+142,Aerodactyl,rock,flying,Wing Attack,flying,physical,60,100,True,3
+143,Snorlax,normal,,Hyper Beam,normal,special,150,90,True,0
+143,Snorlax,normal,,Double-Edge,normal,physical,120,100,True,0
+143,Snorlax,normal,,Body Slam,normal,physical,85,100,True,0
+143,Snorlax,normal,,Headbutt,normal,physical,70,100,True,0
+144,Articuno,ice,flying,Blizzard,ice,special,110,70,True,4
+144,Articuno,ice,flying,Peck,flying,physical,35,100,True,3
+144,Articuno,ice,flying,Ice Beam,ice,special,90,100,True,4
+145,Zapdos,electric,flying,Thunder,electric,special,110,70,True,2
+145,Zapdos,electric,flying,Thunder Shock,electric,special,40,100,True,2
+145,Zapdos,electric,flying,Drill Peck,flying,physical,80,100,True,3
+146,Moltres,fire,flying,Sky Attack,flying,physical,140,90,True,3
+146,Moltres,fire,flying,Peck,flying,physical,35,100,True,3
+146,Moltres,fire,flying,Fire Spin,fire,special,35,85,True,4
+147,Dratini,dragon,,Hyper Beam,normal,special,150,90,False,0
+147,Dratini,dragon,,Slam,normal,physical,80,75,False,0
+147,Dratini,dragon,,Wrap,normal,physical,15,90,False,0
+148,Dragonair,dragon,,Hyper Beam,normal,special,150,90,False,0
+148,Dragonair,dragon,,Slam,normal,physical,80,75,False,0
+148,Dragonair,dragon,,Wrap,normal,physical,15,90,False,0
+149,Dragonite,dragon,flying,Hyper Beam,normal,special,150,90,False,0
+149,Dragonite,dragon,flying,Slam,normal,physical,80,75,False,0
+149,Dragonite,dragon,flying,Wrap,normal,physical,15,90,False,0
+150,Mewtwo,psychic,,Psychic,psychic,special,90,100,True,2
+150,Mewtwo,psychic,,Swift,normal,special,60,100,False,0
+150,Mewtwo,psychic,,Confusion,psychic,special,50,100,True,2
+151,Mew,psychic,,Psychic,psychic,special,90,100,True,2
+151,Mew,psychic,,Mega Punch,normal,physical,80,85,False,0
+151,Mew,psychic,,Pound,normal,physical,40,100,False,0
